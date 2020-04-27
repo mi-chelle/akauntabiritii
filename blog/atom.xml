@@ -1,0 +1,27 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Michelle Sargent's blog</title>
+	<link href="http://mi-chelle.github.io/akauntabiritii/blog/atom.xml" rel="self"/>
+	<link href="http://mi-chelle.github.io/akauntabiritii/blog"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://mi-chelle.github.io/akauntabiritii/blog</id>
+	<author>
+		<name>Michelle Sargent</name>
+		<email>michelle.sargent@outlook.com</email>
+	</author>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://mi-chelle.github.io/akauntabiritii{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://mi-chelle.github.io/akauntabiritii{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
