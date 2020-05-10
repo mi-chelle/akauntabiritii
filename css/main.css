@@ -48,14 +48,14 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
     line-height: 1.3em;
     color: #333;
 }
 
 ul.posts li {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
     line-height: 1.3em;
     color: #333;
@@ -63,14 +63,14 @@ ul.posts li {
 
 ul { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
     line-height: 1.3em;
     color: #333;
 }
 
 li {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
     line-height: 1.3em;
     color: #333;
