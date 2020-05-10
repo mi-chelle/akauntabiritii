@@ -49,3 +49,11 @@ ul.posts li {
     line-height: 1.3em;
     color: #333;
 }
+
+li {
+    margin: 20px auto 40px; 
+    font-size: 1.3em;
+    font-family:'Crimson Text', 'Roboto Slab', 'Serif';
+    line-height: 1.3em;
+    color: #333;
+}
