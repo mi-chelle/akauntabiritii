@@ -22,7 +22,15 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.8em;
+    font-family:'Open Sans', 'Helvetica', 'Sans-Serif';
+}
+h2 {
+    font-size: 2.6em;
+    font-family:'Open Sans', 'Helvetica', 'Sans-Serif';
+}
+h3 {
+    font-size: 2.2em;
     font-family:'Open Sans', 'Helvetica', 'Sans-Serif';
 }
 p {
