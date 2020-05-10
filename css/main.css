@@ -5,13 +5,13 @@ body {
 nav ul, footer ul {
     font-family: 'Open Sans', 'Helvetica', 'Sans-Serif';
     padding: 0px;
-    font-weight: lighter;
+    font-weight: thin;
 }
 nav ul li, footer ul li {
     display: inline;
     font-family: 'Open Sans', 'Helvetica', 'Sans-Serif';
     padding: 0px;
-    font-weight: lighter;
+    font-weight: thin;
     margin-right: 20px;
 }
 a {
