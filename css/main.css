@@ -24,9 +24,9 @@ h1 {
     font-family:'Open Sans', 'Helvetica', 'Sans-Serif';
 }
 p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
-    line-height: 1.2em;
+    line-height: 1.3em;
     color: #333;
 }
 footer {
@@ -36,12 +36,16 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family:'Crimson Text', 'Roboto Slab', 'Serif';
-    line-height: 1.2em;
+    line-height: 1.3em;
     color: #333;
 }
 
 ul.posts li {
-    list-style: none;
+    margin: 20px auto 40px; 
+    font-size: 1.3em;
+    font-family:'Crimson Text', 'Roboto Slab', 'Serif';
+    line-height: 1.3em;
+    color: #333;
 }
