@@ -7,7 +7,11 @@ published: true
 
 I'm going back to basics and dumping high-maintenance Wordpress.
 
-This is my attempt at a regularly updated blog. It's only been 10 years. I'm sure __now__ I'll keep it up. It's all about the tools, right? Not the technique. Yeah, that's it.
+It's Wordpress's fault I don't blog, like ever.
+
+This is my attempt at creating a space for a regularly updated blog. It's only been 10 years. I'm sure __now__ I'll keep it up. It's all about the tools, right? Not the technique. Yeah, that's it.
+
+So I'm also learning Github + Jekyll for the first time, re-learning HTML and CSS, and becoming really skilled in long-tail YouTube searches.  
 
 Other motivations for taking up another project I have no time for include: 
 
