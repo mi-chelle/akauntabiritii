@@ -3,15 +3,8 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p {
-    font-size: 1.3em;
-    font-family: 'Crimson Text', 'Roboto Slab', 'Serif';
-    line-height: 1.3em;
-    color: #333;
-}
-p, ul { 
-    font-size: 1.3em; line-height: 1.3em; color: #333; }
-}
+p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
