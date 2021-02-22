@@ -1,3 +1,10 @@
+---
+layout: post
+title: 'Archive: Imperfect first post'
+date: {2020-07-22}
+published: true
+---
+
 Perfection. That's what holds me back.
 
 That sentence seems incorrect. "That's what". Is that right? Wait. Is right right or is it correct to say correct?
